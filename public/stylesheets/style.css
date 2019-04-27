@@ -1,0 +1,24 @@
+
+.main {
+  color: forestgreen;
+  background: beige;
+}
+
+.navbar-div {
+  background: black;
+  height: 90vh;
+}
+
+.sidebar-nav {
+  margin-top: 20px;
+  padding: 0;
+  list-style: none;
+}
+
+.list {
+  line-height: 3;
+}
+
+.desc {
+  padding-bottom: 25px;
+}
