@@ -13,7 +13,7 @@ var catalogRouter = require('./routes/catalog');
 var app = express();
 
 // db settings
-var mongoDB = 'mongodb+srv://NikhileshP:mikazaru1993@cluster0-xzz4g.mongodb.net/local_library?retryWrites=true';
+var mongoDB = 'mongodb+srv://xxxxxxxxxxxxxxxxxxxxxxxxx/local_library?retryWrites=true';
 
 mongoose.connect(mongoDB, { useNewUrlParser: true });
 var db = mongoose.connection;
